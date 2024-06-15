@@ -1,5 +1,5 @@
 import { OrbitControls } from "three/examples/jsm/Addons.js"
-import { mx_worley_noise_float } from "three/examples/jsm/nodes/Nodes.js"
+import { mx_worley_noise_float } from "/three/examples/jsm/nodes/Nodes.js"
 const scene=new THREE.Scene()
 
 
